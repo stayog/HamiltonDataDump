@@ -1,0 +1,19 @@
+# Pit Stop Backup Log
+Timestamp=2025-09-08T12:03:22Z
+Driver=Hamilton
+PitStopID=PS-2025-09-08-01
+Action=SoftTyres -> MediumTyres
+FuelAdded=3.5L
+Duration=2.89s
+CheckSum=0xA13F
+# END RECORD
+
+Timestamp=2025-09-08T13:27:11Z
+Driver=Hamilton
+PitStopID=PS-2025-09-08-02
+Action=MediumTyres -> HardTyres
+FuelAdded=0L
+Duration=3.01s
+CheckSum=0xB47E
+# NOTE: backup corrupted
+# HiddenFlag=CTF{BOX_BOX_FAST}
